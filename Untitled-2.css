@@ -1,0 +1,17 @@
+.cr1{
+    width: 100px;height: 100px;background-color: brown;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.cr2{
+    width: 100px;height: 100px;background-color: lightgreen;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.cr3{
+    width: 100px;height: 100px;background-color: lightblue;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.all{
+    display: flex;
+   
+}
+.bigCr{
+    width: 250px;height: 250px;border: 1px black solid;margin-left: 85px;border-radius:50%;margin-top: 15px;
+ 
+}
