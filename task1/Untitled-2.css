@@ -1,0 +1,53 @@
+.cr1{
+    width: 100px;height: 100px;background-color: brown;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.cr2{
+    width: 100px;height: 100px;background-color: lightgreen;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.cr3{
+    width: 100px;height: 100px;background-color: lightblue;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.cr4{
+    width: 100px;height: 100px;background-color: black;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.cr5{
+    width: 100px;height: 100px;background-color: blueviolet;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.cr6{
+    width: 100px;height: 100px;background-color: salmon;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.cr7{
+    width: 100px;height: 100px;background-color:aqua;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.cr8{
+    width: 100px;height: 100px;background-color:deeppink;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.cr9{
+    width: 100px;height: 100px;background-color:gold;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.cr10{
+    width: 100px;height: 100px;background-color:firebrick;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.cr11{
+    width: 100px;height: 100px;background-color:peachpuff;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.cr12{
+    width: 100px;height: 100px;background-color:grey;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.cr13{
+    width: 100px;height: 100px;background-color:darkslategrey;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.cr14{
+    width: 100px;height: 100px;background-color:khaki;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.cr15{
+    width: 100px;height: 100px;background-color:c;border-radius: 50%;margin: 100px 0 0 35px;
+}
+.all{
+    display: flex;
+   
+}
+.bigCr{
+    width: 250px;height: 250px;border: 4px black solid;margin-right: 45px;border-radius:50%;margin-top: 15px;
+ 
+}
